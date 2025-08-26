@@ -1,11 +1,3 @@
-### Naprawione błędy
-- Problem z zapisaniem cenników dostaw w bazie lokalnej
-
-### Nowe funkcjonalności
-* Obsługa multimagazynowości
-* Dwukierunkowa aktualizacja stanów magazynowych
-* Usprawnienia w GPSR
-
 **Marketbase** to innowacyjna aplikacja, która umożliwia integrację i synchronizację stanów magazynowych oraz informacji o produktach na wielu serwisach marketplace. Dzięki niej możesz przyspieszyć proces wystawiania ofert na różnych platformach w Polsce, oszczędzając czas i minimalizując błędy.
 
 **Kluczowe funkcje Marketbase:**
